@@ -1,6 +1,6 @@
 # Cozy Survival
 
-Paper 1.21.11 plugins and forks for the Cozy Survival server. Ten built from scratch, six maintained forks of existing projects, each patched, audited and re-released for our own use.
+Paper 1.21.11 plugins and forks for the Cozy Survival server. Eleven built from scratch, seven maintained forks of existing projects, each patched, audited and re-released for our own use.
 
 Everything here is public and MIT-licensed unless the upstream project's own license says otherwise (forks keep whatever license they came with).
 
@@ -15,6 +15,7 @@ Everything here is public and MIT-licensed unless the upstream project's own lic
 | [Halo](https://github.com/cozy-survival-setup-forks/Halo) | Glowing outlines for players, single colour, cycling, bouncing or flashing. |
 | [PinataFest](https://github.com/cozy-survival-setup-forks/PinataFest) | Votes fund a pinata party: a llama pinata that runs, glows and drops rewards on every hit. |
 | [Pixie](https://github.com/cozy-survival-setup-forks/Pixie) | 34 particle trails out of the box, more can be written in one file. |
+| [Podium](https://github.com/cozy-survival-setup-forks/Podium) | A leaderboard dashboard and a stats menu, both driven by PlaceholderAPI so they work with Topper or anything else already installed. |
 | [Questly](https://github.com/cozy-survival-setup-forks/Questly) | A rotating quest board, 300 quests included, points spent in a shop. |
 | [Spectrum](https://github.com/cozy-survival-setup-forks/Spectrum) | Chat colours and name gradients, each style in its own simple file. |
 | [Sweeper](https://github.com/cozy-survival-setup-forks/Sweeper) | Timed clean-up for dropped items and mobs, spread over ticks so it doesn't cause a freeze. |
@@ -25,6 +26,7 @@ Everything here is public and MIT-licensed unless the upstream project's own lic
 | --- | --- |
 | [AxPlayerWarps](https://github.com/cozy-survival-setup-forks/AxPlayerWarps) | Player-run warps with a GUI, categories and ratings. |
 | [BetterTeams](https://github.com/cozy-survival-setup-forks/BetterTeams) | Teams with a rewritten level system: per-level limits, prices and a `/team levels` menu. |
+| [DeluxeCoinflip](https://github.com/cozy-survival-setup-forks/DeluxeCoinflip) | PvP coinflip gambling, plus a solo Play with Bot mode against the house. No telemetry. |
 | [EternalCombat](https://github.com/cozy-survival-setup-forks/EternalCombat) | Combat tagging, with claims as protected regions during a fight. |
 | [EvenMoreFish](https://github.com/cozy-survival-setup-forks/EvenMoreFish) | A fishing competition plugin with 60+ custom fish. |
 | [HuskClaims](https://github.com/cozy-survival-setup-forks/HuskClaims) | Land claims, with a redesigned claim-block shop and extra protections. |
