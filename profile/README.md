@@ -1,6 +1,6 @@
 # Cozy Survival
 
-Paper 1.21.11 plugins and forks for the Cozy Survival server. Nine built from scratch, seven maintained forks of existing projects, each patched, audited and re-released for our own use.
+Paper 1.21.11 plugins and forks for the Cozy Survival server. Ten built from scratch, six maintained forks of existing projects, each patched, audited and re-released for our own use.
 
 Everything here is public and MIT-licensed unless the upstream project's own license says otherwise (forks keep whatever license they came with).
 
@@ -10,6 +10,7 @@ Everything here is public and MIT-licensed unless the upstream project's own lic
 | --- | --- |
 | [Bastion](https://github.com/cozy-survival-setup-forks/Bastion) | A crowdfunded, instanced PvE dungeon. Players pool money toward a goal, then raid a scripted three-room castle: wave rooms gated behind hidden artifacts, an altar ritual, and a boss with phases and an enrage timer. |
 | [Quill](https://github.com/cozy-survival-setup-forks/Quill) | Local chat, per-permission formats, and a filter for advertising and hate speech built to catch the real thing without flagging ordinary words. |
+| [Roam](https://github.com/cozy-survival-setup-forks/Roam) | Random teleport: square or circle areas, a gaussian spread, nether caves. |
 | [Grip](https://github.com/cozy-survival-setup-forks/Grip) | Asks for a second Q press before something valuable leaves your inventory. |
 | [Halo](https://github.com/cozy-survival-setup-forks/Halo) | Glowing outlines for players, single colour, cycling, bouncing or flashing. |
 | [PinataFest](https://github.com/cozy-survival-setup-forks/PinataFest) | Votes fund a pinata party: a llama pinata that runs, glows and drops rewards on every hit. |
@@ -28,7 +29,6 @@ Everything here is public and MIT-licensed unless the upstream project's own lic
 | [EvenMoreFish](https://github.com/cozy-survival-setup-forks/EvenMoreFish) | A fishing competition plugin with 60+ custom fish. |
 | [HuskClaims](https://github.com/cozy-survival-setup-forks/HuskClaims) | Land claims, with a redesigned claim-block shop and extra protections. |
 | [Origins-Reborn](https://github.com/cozy-survival-setup-forks/Origins-Reborn) | Origins-style player abilities, based on the Fabric mod of the same idea. |
-| [Roam](https://github.com/cozy-survival-setup-forks/Roam) | Random teleport: square or circle areas, a gaussian spread, nether caves. |
 
 ## Using these
 
