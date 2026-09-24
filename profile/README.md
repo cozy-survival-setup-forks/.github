@@ -1,6 +1,6 @@
 # Cozy Survival
 
-Paper 1.21.11 plugins and forks for the Cozy Survival server. Eleven built from scratch, seven maintained forks of existing projects, each patched, audited and re-released for our own use.
+Paper 1.21.11 plugins and forks for the Cozy Survival server. Eleven built from scratch, eight maintained forks of existing projects, each patched, audited and re-released for our own use.
 
 Everything here is public and MIT-licensed unless the upstream project's own license says otherwise (forks keep whatever license they came with).
 
@@ -29,8 +29,9 @@ Everything here is public and MIT-licensed unless the upstream project's own lic
 | [DeluxeCoinflip](https://github.com/cozy-survival-setup-forks/DeluxeCoinflip) | PvP coinflip gambling, plus a solo Play with Bot mode against the house. No telemetry. |
 | [EternalCombat](https://github.com/cozy-survival-setup-forks/EternalCombat) | Combat tagging, with claims as protected regions during a fight. |
 | [EvenMoreFish](https://github.com/cozy-survival-setup-forks/EvenMoreFish) | A fishing competition plugin with 60+ custom fish. |
-| [HuskClaims](https://github.com/cozy-survival-setup-forks/HuskClaims) | Land claims, with a redesigned claim-block shop and extra protections. |
+| [HuskClaims](https://github.com/cozy-survival-setup-forks/HuskClaims) | Land claims, with a redesigned claim-block shop, an editable claim settings menu and extra protections. |
 | [Origins-Reborn](https://github.com/cozy-survival-setup-forks/Origins-Reborn) | Origins-style player abilities, based on the Fabric mod of the same idea. |
+| [UnlimitedNametags](https://github.com/cozy-survival-setup-forks/UnlimitedNametags) | Stacked display-entity nametags, with stuck-nametag repair, no telemetry and tighter placeholder and condition handling. |
 
 ## Using these
 
