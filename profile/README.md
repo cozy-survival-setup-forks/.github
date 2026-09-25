@@ -1,6 +1,6 @@
 # Cozy Survival
 
-Paper 1.21.11 plugins and forks for the Cozy Survival server. Twelve built from scratch, ten maintained forks of existing projects, each patched, audited and re-released for our own use.
+Paper 1.21.11 plugins and forks for the Cozy Survival server. Twelve built from scratch, eleven maintained forks of existing projects, each patched, audited and re-released for our own use.
 
 Everything here is public and MIT-licensed unless the upstream project's own license says otherwise (forks keep whatever license they came with).
 
@@ -35,6 +35,7 @@ Everything here is public and MIT-licensed unless the upstream project's own lic
 | [Origins-Reborn](https://github.com/cozy-survival-setup-forks/Origins-Reborn) | Origins-style player abilities, based on the Fabric mod of the same idea. |
 | [ResourceWorld](https://github.com/cozy-survival-setup-forks/ResourceWorld) | Automatically resetting resource worlds: resets without a freeze, game rules kept, reset titles, teleports through Roam. |
 | [UnlimitedNametags](https://github.com/cozy-survival-setup-forks/UnlimitedNametags) | Stacked display-entity nametags, with stuck-nametag repair, no telemetry and tighter placeholder and condition handling. |
+| [XLTournaments](https://github.com/cozy-survival-setup-forks/XLTournaments) | Server-wide tournaments with rewards and leaderboards: a smaller jar, rewards that go to the final standings, and a rewritten database layer. |
 
 ## Using these
 
