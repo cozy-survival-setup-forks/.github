@@ -1,6 +1,6 @@
 # Cozy Survival
 
-Paper 1.21.11 plugins and forks for the Cozy Survival server. Eleven built from scratch, ten maintained forks of existing projects, each patched, audited and re-released for our own use.
+Paper 1.21.11 plugins and forks for the Cozy Survival server. Twelve built from scratch, ten maintained forks of existing projects, each patched, audited and re-released for our own use.
 
 Everything here is public and MIT-licensed unless the upstream project's own license says otherwise (forks keep whatever license they came with).
 
@@ -17,6 +17,7 @@ Everything here is public and MIT-licensed unless the upstream project's own lic
 | [Pixie](https://github.com/cozy-survival-setup-forks/Pixie) | 34 particle trails out of the box, more can be written in one file. |
 | [Podium](https://github.com/cozy-survival-setup-forks/Podium) | A leaderboard dashboard and a stats menu, both driven by PlaceholderAPI so they work with Topper or anything else already installed. |
 | [Questly](https://github.com/cozy-survival-setup-forks/Questly) | A rotating quest board, 300 quests included, points spent in a shop. |
+| [Soar](https://github.com/cozy-survival-setup-forks/Soar) | Flight paid for in time: `/tempfly`, balances, payments between players, and it shares the double tap with Origins-Reborn. |
 | [Spectrum](https://github.com/cozy-survival-setup-forks/Spectrum) | Chat colours and name gradients, each style in its own simple file. |
 | [Sweeper](https://github.com/cozy-survival-setup-forks/Sweeper) | Timed clean-up for dropped items and mobs, spread over ticks so it doesn't cause a freeze. |
 
