@@ -1,6 +1,6 @@
 # Cozy Survival
 
-Paper 1.21.11 plugins and forks for the Cozy Survival server. Twelve built from scratch, eleven maintained forks of existing projects, each patched, audited and re-released for our own use.
+Paper 1.21.11 plugins and forks for the Cozy Survival server. Thirteen built from scratch, eleven maintained forks of existing projects, each patched, audited and re-released for our own use.
 
 Everything here is public and MIT-licensed unless the upstream project's own license says otherwise (forks keep whatever license they came with).
 
@@ -14,6 +14,7 @@ Everything here is public and MIT-licensed unless the upstream project's own lic
 | [Grip](https://github.com/cozy-survival-setup-forks/Grip) | Asks for a second Q press before something valuable leaves your inventory. |
 | [Halo](https://github.com/cozy-survival-setup-forks/Halo) | Glowing outlines for players, single colour, cycling, bouncing or flashing. |
 | [PinataFest](https://github.com/cozy-survival-setup-forks/PinataFest) | Votes fund a pinata party: a llama pinata that runs, glows and drops rewards on every hit. |
+| [Magpie](https://github.com/cozy-survival-setup-forks/Magpie) | One collector per chunk that picks up every dropped item, kept as counts, sold through ShopGUI+ or Vault. |
 | [Pixie](https://github.com/cozy-survival-setup-forks/Pixie) | 34 particle trails out of the box, more can be written in one file. |
 | [Podium](https://github.com/cozy-survival-setup-forks/Podium) | A leaderboard dashboard and a stats menu, both driven by PlaceholderAPI so they work with Topper or anything else already installed. |
 | [Questly](https://github.com/cozy-survival-setup-forks/Questly) | A rotating quest board, 300 quests included, points spent in a shop. |
